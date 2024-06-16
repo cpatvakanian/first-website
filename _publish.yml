@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 7eea0e87-dd20-40d4-b635-9cfaf01bfdf5
+      url: 'https://cpatvakanian.quarto.pub/a-new-website'
